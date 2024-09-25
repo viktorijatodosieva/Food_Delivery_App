@@ -1,0 +1,96 @@
+C:\Users\ThisPC\Downloads\Lab5A\Lab5A\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.deps.json
+C:\Users\ThisPC\Downloads\Lab5A\Lab5A\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.dll
+C:\Users\ThisPC\Downloads\Lab5A\Lab5A\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.pdb
+C:\Users\ThisPC\Downloads\Lab5A\Lab5A\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.AssemblyReference.cache
+C:\Users\ThisPC\Downloads\Lab5A\Lab5A\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThisPC\Downloads\Lab5A\Lab5A\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfoInputs.cache
+C:\Users\ThisPC\Downloads\Lab5A\Lab5A\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfo.cs
+C:\Users\ThisPC\Downloads\Lab5A\Lab5A\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ThisPC\Downloads\Lab5A\Lab5A\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.dll
+C:\Users\ThisPC\Downloads\Lab5A\Lab5A\integrated_systems\EShop.Domain\obj\Debug\net8.0\refint\EShop.Domain.dll
+C:\Users\ThisPC\Downloads\Lab5A\Lab5A\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.pdb
+C:\Users\ThisPC\Downloads\Lab5A\Lab5A\integrated_systems\EShop.Domain\obj\Debug\net8.0\ref\EShop.Domain.dll
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.deps.json
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.dll
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.pdb
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.AssemblyReference.cache
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfoInputs.cache
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfo.cs
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.dll
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems\EShop.Domain\obj\Debug\net8.0\refint\EShop.Domain.dll
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.pdb
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems\EShop.Domain\obj\Debug\net8.0\ref\EShop.Domain.dll
+C:\Users\ThisPC\Downloads\integrated_systems\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.deps.json
+C:\Users\ThisPC\Downloads\integrated_systems\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.dll
+C:\Users\ThisPC\Downloads\integrated_systems\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.pdb
+C:\Users\ThisPC\Downloads\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.AssemblyReference.cache
+C:\Users\ThisPC\Downloads\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThisPC\Downloads\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfoInputs.cache
+C:\Users\ThisPC\Downloads\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfo.cs
+C:\Users\ThisPC\Downloads\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ThisPC\Downloads\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.dll
+C:\Users\ThisPC\Downloads\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\refint\EShop.Domain.dll
+C:\Users\ThisPC\Downloads\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.pdb
+C:\Users\ThisPC\Downloads\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\ref\EShop.Domain.dll
+C:\Users\Viktorija\Downloads\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.deps.json
+C:\Users\Viktorija\Downloads\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.dll
+C:\Users\Viktorija\Downloads\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.pdb
+C:\Users\Viktorija\Downloads\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.AssemblyReference.cache
+C:\Users\Viktorija\Downloads\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktorija\Downloads\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfoInputs.cache
+C:\Users\Viktorija\Downloads\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfo.cs
+C:\Users\Viktorija\Downloads\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Viktorija\Downloads\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.dll
+C:\Users\Viktorija\Downloads\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\refint\EShop.Domain.dll
+C:\Users\Viktorija\Downloads\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.pdb
+C:\Users\Viktorija\Downloads\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\ref\EShop.Domain.dll
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.deps.json
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.dll
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.pdb
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.AssemblyReference.cache
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfoInputs.cache
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfo.cs
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.dll
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\refint\EShop.Domain.dll
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.pdb
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\ref\EShop.Domain.dll
+C:\Users\ThisPC\Downloads\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.deps.json
+C:\Users\ThisPC\Downloads\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.dll
+C:\Users\ThisPC\Downloads\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.pdb
+C:\Users\ThisPC\Downloads\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.AssemblyReference.cache
+C:\Users\ThisPC\Downloads\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThisPC\Downloads\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfoInputs.cache
+C:\Users\ThisPC\Downloads\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfo.cs
+C:\Users\ThisPC\Downloads\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ThisPC\Downloads\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.dll
+C:\Users\ThisPC\Downloads\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\refint\EShop.Domain.dll
+C:\Users\ThisPC\Downloads\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.pdb
+C:\Users\ThisPC\Downloads\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\ref\EShop.Domain.dll
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.deps.json
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.dll
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.pdb
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.AssemblyReference.cache
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfoInputs.cache
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfo.cs
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.dll
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\refint\EShop.Domain.dll
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.pdb
+C:\Users\NATALIJA\OneDrive\Desktop\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\ref\EShop.Domain.dll
+C:\Users\Viktorija\Downloads\integrated_systems 2\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.deps.json
+C:\Users\Viktorija\Downloads\integrated_systems 2\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.dll
+C:\Users\Viktorija\Downloads\integrated_systems 2\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.pdb
+C:\Users\Viktorija\Downloads\integrated_systems 2\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.AssemblyReference.cache
+C:\Users\Viktorija\Downloads\integrated_systems 2\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktorija\Downloads\integrated_systems 2\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfoInputs.cache
+C:\Users\Viktorija\Downloads\integrated_systems 2\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfo.cs
+C:\Users\Viktorija\Downloads\integrated_systems 2\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Viktorija\Downloads\integrated_systems 2\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.dll
+C:\Users\Viktorija\Downloads\integrated_systems 2\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\refint\EShop.Domain.dll
+C:\Users\Viktorija\Downloads\integrated_systems 2\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.pdb
+C:\Users\Viktorija\Downloads\integrated_systems 2\integrated_systems 2\integrated_systems 2\integrated_systems\integrated_systems\EShop.Domain\obj\Debug\net8.0\ref\EShop.Domain.dll
