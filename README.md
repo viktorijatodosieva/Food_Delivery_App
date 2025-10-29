@@ -57,4 +57,10 @@ EShopApplication.sln — Solution file
 - Admin tools: manage dishes, orders, availability
 - Clean separation of concerns for maintainability and testing
 
+## ☁️ Deployment & Hosting
+
+- Hosted the application on **Microsoft Azure** (App Service + SQL Database).  
+- Set up deployment configuration, environment variables, and automated database migrations.  
+- Demonstrated full end-to-end deployment workflow; live site currently unavailable due to free-tier limitations.
+
 
